@@ -1,0 +1,20 @@
+packages/adapters/src/runtime/bare.ts
+  s_8fb517065df451::t_80463b4941207c 46
+  s_8fb517065df451::t_2f6c6e2d2baade 602
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "a38addbcfa30b7302ec12fa06dd925c690dde39f",
+  "prompts": {},
+  "sessions": {
+    "s_8fb517065df451": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "18fedb30-b442-4efe-8854-064f0c6a22dd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
