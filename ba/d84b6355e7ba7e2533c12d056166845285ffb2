@@ -1,0 +1,25 @@
+packages/adapters/src/runtime/stack-output.ts
+  s_8fb517065df451::t_e55bd9e3a66feb 13
+  s_8fb517065df451::t_86a07902804168 51-82
+packages/adapters/src/runtime/stack-output.test.ts
+  s_8fb517065df451::t_7a9f313da88d51 2
+  s_8fb517065df451::t_141a493e47c346 1
+  s_8fb517065df451::t_4ccd1f35652547 3-5
+  s_8fb517065df451::t_2883c7b2872cfb 6-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "bad84b6355e7ba7e2533c12d056166845285ffb2",
+  "prompts": {},
+  "sessions": {
+    "s_8fb517065df451": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "18fedb30-b442-4efe-8854-064f0c6a22dd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
