@@ -1,0 +1,24 @@
+apps/desktop/forge.config.js
+  s_42016eccb2b569::t_8566c77de21205 63
+apps/desktop/src/main/services.ts
+  s_42016eccb2b569::t_8566c77de21205 99,217,283
+apps/desktop/build/stage.ts
+  s_42016eccb2b569::t_8566c77de21205 10,30,170-173
+  s_42016eccb2b569::t_2fda9f1b57a488 174-175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "cc6ca4783c92a0629d453b8d1bce9cb8ea77ba6d",
+  "prompts": {},
+  "sessions": {
+    "s_42016eccb2b569": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8869-7974-7060-a617-acd39bb6347a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
