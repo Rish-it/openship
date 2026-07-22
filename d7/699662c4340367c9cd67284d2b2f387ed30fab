@@ -1,0 +1,21 @@
+packages/adapters/src/runtime/cloud/compose.ts
+  s_8fb517065df451::t_8b7a3da78d3ad5 3-8
+  s_8fb517065df451::t_415d6789374245 459
+  s_8fb517065df451::t_62ad79624f2ea5 373-375
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "d7699662c4340367c9cd67284d2b2f387ed30fab",
+  "prompts": {},
+  "sessions": {
+    "s_8fb517065df451": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "18fedb30-b442-4efe-8854-064f0c6a22dd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
