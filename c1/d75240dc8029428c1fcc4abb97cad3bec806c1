@@ -1,0 +1,23 @@
+packages/adapters/src/types.ts
+  s_8fb517065df451::t_2f8dccad94b5b9 44-51
+packages/adapters/test/orchestrator-cpus.test.ts
+  s_8fb517065df451::t_710065ec21f001 1-27
+packages/adapters/src/index.ts
+  s_8fb517065df451::t_7d89fca3e3bafe 43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "c1d75240dc8029428c1fcc4abb97cad3bec806c1",
+  "prompts": {},
+  "sessions": {
+    "s_8fb517065df451": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "18fedb30-b442-4efe-8854-064f0c6a22dd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
