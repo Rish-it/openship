@@ -1,0 +1,24 @@
+packages/adapters/src/runtime/cloud.ts
+  s_8fb517065df451::t_600ed4c5708fcb 1746-1749
+  s_8fb517065df451::t_01b4f1f9c19f70 67
+  s_8fb517065df451::t_9237003ee74d8e 1745
+  s_8fb517065df451::t_3a9e4de9ae416b 1750
+packages/adapters/src/runtime/cloud-deploy-static.test.ts
+  s_8fb517065df451::t_cb0a3a2d7a4e54 1-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "82e745361ff240b83db272c9b5898d9d3057b190",
+  "prompts": {},
+  "sessions": {
+    "s_8fb517065df451": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "18fedb30-b442-4efe-8854-064f0c6a22dd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
