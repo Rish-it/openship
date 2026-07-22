@@ -1,0 +1,25 @@
+packages/adapters/test/fixtures/compiled-openresty-lua.ts
+  s_42016eccb2b569::t_bfd9186909e0cf 1-21
+packages/adapters/src/infra/openresty-lua.ts
+  s_42016eccb2b569::t_8566c77de21205 242-243
+packages/adapters/test/openresty-lua-assets.test.ts
+  s_42016eccb2b569::t_b0a075a39f6c13 20
+  s_42016eccb2b569::t_bfd9186909e0cf 1-19,21-23,28-44
+  s_42016eccb2b569::t_fc06bee8181ca0 24-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "6ed7f5f9e539338b61a727f2ff85697592069d92",
+  "prompts": {},
+  "sessions": {
+    "s_42016eccb2b569": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8869-7974-7060-a617-acd39bb6347a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
