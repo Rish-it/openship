@@ -1,0 +1,19 @@
+apps/cli/src/commands/wizard.ts
+  s_cda1e4b24340b1::t_c9bac50cae41c9 605
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "66a53212b2b73ba35778f7ceb8c782df1718ca44",
+  "prompts": {},
+  "sessions": {
+    "s_cda1e4b24340b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d400b5b8-c237-4fbc-9e70-d2a89412941c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
