@@ -1,0 +1,20 @@
+apps/cli/src/commands/mail.ts
+  s_28180a8c637d14::t_7da89785f57d06 381-476
+  s_28180a8c637d14::t_c291333c9e2ba5 567
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "a5bc58591eaea5d7d27b9388fedb916fc5ca948a",
+  "prompts": {},
+  "sessions": {
+    "s_28180a8c637d14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d5df4292-039f-43da-8e32-a9367ca551ba",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
