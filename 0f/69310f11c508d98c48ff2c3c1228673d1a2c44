@@ -1,0 +1,19 @@
+apps/cli/src/commands/logs.ts
+  s_cda1e4b24340b1::t_7e5598c1ce4117 2,7-9,16,24-37,40,43-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "0f69310f11c508d98c48ff2c3c1228673d1a2c44",
+  "prompts": {},
+  "sessions": {
+    "s_cda1e4b24340b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d400b5b8-c237-4fbc-9e70-d2a89412941c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
