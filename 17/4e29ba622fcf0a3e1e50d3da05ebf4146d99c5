@@ -1,0 +1,35 @@
+apps/api/src/modules/domains/project-route.service.ts
+  s_cda1e4b24340b1::t_dc7700e5f8954a 348
+  s_689a859de6459d::t_e2cf11c3c128f7 234-260,273
+  s_689a859de6459d::t_a625c8cfac4b09 346-347
+apps/api/test/modules/domains/project-route.service.test.ts
+  s_cda1e4b24340b1::t_af74b533c2f588 152
+  s_689a859de6459d::t_dcb1ae7ce8293b 29-30,32-55
+  s_cda1e4b24340b1::t_883c7554bdf14b 1-8,12-13,17-27,31
+  s_cda1e4b24340b1::t_5c82023961a86a 83-151
+  s_cda1e4b24340b1::t_ec2ad310238473 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "174e29ba622fcf0a3e1e50d3da05ebf4146d99c5",
+  "prompts": {},
+  "sessions": {
+    "s_689a859de6459d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "252e8023-0865-4e64-975b-4de45f88f2c4",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_cda1e4b24340b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d400b5b8-c237-4fbc-9e70-d2a89412941c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
