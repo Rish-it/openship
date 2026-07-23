@@ -1,0 +1,20 @@
+apps/api/src/lib/startup/self-deploy.ts
+  s_689a859de6459d::t_7dcb3d88b775ce 209
+  s_689a859de6459d::t_e0b7cb5d532f5e 314
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "dc2091881b43f1ca165233c5a8d8a0afb8ac9303",
+  "prompts": {},
+  "sessions": {
+    "s_689a859de6459d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "252e8023-0865-4e64-975b-4de45f88f2c4",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
