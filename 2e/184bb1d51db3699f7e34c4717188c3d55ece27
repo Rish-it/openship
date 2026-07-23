@@ -1,0 +1,21 @@
+apps/api/test/lib/compose-parser.test.ts
+  s_1a730f122254d5::t_8497d87c87ea1e 416-438
+apps/api/src/lib/compose-parser.ts
+  s_1a730f122254d5::t_a49e50492a2c40 223-238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "2e184bb1d51db3699f7e34c4717188c3d55ece27",
+  "prompts": {},
+  "sessions": {
+    "s_1a730f122254d5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "da34b950-0e87-4dcc-b1b0-735611b88f50",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
