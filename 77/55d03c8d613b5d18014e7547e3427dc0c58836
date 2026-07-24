@@ -1,0 +1,23 @@
+packages/db/src/repos/domain.repo.test.ts
+  s_2abee576ff592b::t_286706a072064c 1-64
+apps/api/src/modules/domains/domain.service.ts
+  s_2abee576ff592b::t_ba3f468d3baa39 577-579
+packages/db/src/repos/domain.repo.ts
+  s_2abee576ff592b::t_47b8cf69dbf83b 230-239,243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "7755d03c8d613b5d18014e7547e3427dc0c58836",
+  "prompts": {},
+  "sessions": {
+    "s_2abee576ff592b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fd159959-9959-41cf-94f3-e0922be7466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
