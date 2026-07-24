@@ -1,0 +1,21 @@
+apps/api/src/modules/deployments/deployment.controller.ts
+  s_2abee576ff592b::t_48d9a3e641b549 90-103
+apps/api/test/modules/deployments/deployment.controller.test.ts
+  s_2abee576ff592b::t_180ed4e048fdc0 1-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "8489a5849500626367f08d9daa44f156aa8287d8",
+  "prompts": {},
+  "sessions": {
+    "s_2abee576ff592b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fd159959-9959-41cf-94f3-e0922be7466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
