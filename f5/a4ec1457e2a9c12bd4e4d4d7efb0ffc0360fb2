@@ -1,0 +1,23 @@
+apps/cli/src/commands/login.ts
+  s_2abee576ff592b::t_3eab2e8607b501 21
+  s_2abee576ff592b::t_0a3da0c5c2eb95 6
+  s_2abee576ff592b::t_554131ff92a10d 12-13,17-20,22
+apps/cli/test/e2e/login.test.ts
+  s_2abee576ff592b::t_2594fad0e9655f 1-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "f5a4ec1457e2a9c12bd4e4d4d7efb0ffc0360fb2",
+  "prompts": {},
+  "sessions": {
+    "s_2abee576ff592b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fd159959-9959-41cf-94f3-e0922be7466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
