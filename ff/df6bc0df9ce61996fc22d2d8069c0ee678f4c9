@@ -1,0 +1,19 @@
+apps/cli/test/e2e/domain.test.ts
+  s_aa7975c82918df::t_182278594633fe 73,83,90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "ffdf6bc0df9ce61996fc22d2d8069c0ee678f4c9",
+  "prompts": {},
+  "sessions": {
+    "s_aa7975c82918df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "243dab4e-bead-405b-88cf-fcc6bd7bce0e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
