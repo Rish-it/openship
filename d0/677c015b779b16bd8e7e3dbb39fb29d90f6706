@@ -1,0 +1,21 @@
+apps/cli/test/e2e/deployment.test.ts
+  s_aa7975c82918df::t_fcb581cdc20492 1-45
+apps/cli/test/e2e/project.test.ts
+  s_aa7975c82918df::t_822f26c1701948 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "d0677c015b779b16bd8e7e3dbb39fb29d90f6706",
+  "prompts": {},
+  "sessions": {
+    "s_aa7975c82918df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "243dab4e-bead-405b-88cf-fcc6bd7bce0e",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
