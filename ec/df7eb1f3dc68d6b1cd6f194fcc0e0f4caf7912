@@ -1,0 +1,21 @@
+apps/cli/test/e2e/server.test.ts
+  s_aa7975c82918df::t_a530664e07684b 1-80
+apps/cli/test/e2e/token.test.ts
+  s_aa7975c82918df::t_b02c8affb95ee1 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "ecdf7eb1f3dc68d6b1cd6f194fcc0e0f4caf7912",
+  "prompts": {},
+  "sessions": {
+    "s_aa7975c82918df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "243dab4e-bead-405b-88cf-fcc6bd7bce0e",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
