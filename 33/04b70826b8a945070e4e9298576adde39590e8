@@ -1,0 +1,24 @@
+apps/cli/package.json
+  s_aa7975c82918df::t_fb6abb71175160 32-33
+  s_aa7975c82918df::t_a299fc0a8a66f6 52-53
+apps/cli/test/helpers/harness.ts
+  s_aa7975c82918df::t_71372f4924c92d 1-158
+apps/cli/test/unit/output.test.ts
+  s_aa7975c82918df::t_38d996e0464bc9 1-85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "3304b70826b8a945070e4e9298576adde39590e8",
+  "prompts": {},
+  "sessions": {
+    "s_aa7975c82918df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "243dab4e-bead-405b-88cf-fcc6bd7bce0e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
