@@ -1,0 +1,21 @@
+apps/cli/test/unit/caps.test.ts
+  s_aa7975c82918df::t_852c6197f59655 1-34
+apps/cli/test/unit/github-releases.test.ts
+  s_aa7975c82918df::t_ea0e15e34bca12 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "684914f4114d18739511223998bef91af576e458",
+  "prompts": {},
+  "sessions": {
+    "s_aa7975c82918df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "243dab4e-bead-405b-88cf-fcc6bd7bce0e",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
