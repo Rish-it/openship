@@ -1,0 +1,21 @@
+apps/cli/test/helpers/inject-version.mjs
+  s_aa7975c82918df::t_21b827c5f1ea94 1
+apps/cli/test/e2e/smoke.test.ts
+  s_aa7975c82918df::t_80e2a36abb906c 1-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "16d434d8bd7f0091e62bb89fadfffbc9747d47f4",
+  "prompts": {},
+  "sessions": {
+    "s_aa7975c82918df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "243dab4e-bead-405b-88cf-fcc6bd7bce0e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
