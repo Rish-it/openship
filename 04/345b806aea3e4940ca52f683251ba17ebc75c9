@@ -1,0 +1,27 @@
+apps/api/test/modules/system/servers.controller.test.ts
+  s_2abee576ff592b::t_031808e8633859 1-70
+packages/db/src/repos/deployment.repo.ts
+  s_2abee576ff592b::t_1ca82fb4666e05 25-41
+apps/api/src/modules/system/servers.controller.ts
+  s_2abee576ff592b::t_79e986c2d2b26a 208-211,213-223
+  s_2abee576ff592b::t_e549168aac75d7 212
+packages/db/src/repos/deployment.repo.test.ts
+  s_2abee576ff592b::t_e030a551782cd2 38,40
+  s_2abee576ff592b::t_ed529f89c3ebc4 1-37,39,41-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "04345b806aea3e4940ca52f683251ba17ebc75c9",
+  "prompts": {},
+  "sessions": {
+    "s_2abee576ff592b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fd159959-9959-41cf-94f3-e0922be7466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
