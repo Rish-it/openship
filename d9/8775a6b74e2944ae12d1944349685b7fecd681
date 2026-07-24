@@ -1,0 +1,28 @@
+apps/cli/test/e2e/mail.test.ts
+  s_aa7975c82918df::t_9a663feb07173c 1-188
+apps/cli/test/helpers/harness.ts
+  s_aa7975c82918df::t_d657ae2af6d540 1-158
+apps/cli/test/helpers/inject-version.mjs
+  s_aa7975c82918df::t_d657ae2af6d540 1
+apps/cli/package.json
+  s_aa7975c82918df::t_1160637488447a 32-33
+  s_aa7975c82918df::t_c6fea9c27292cd 52-53
+bun.lock
+  s_aa7975c82918df::t_e9d1975d660b74 72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "d98775a6b74e2944ae12d1944349685b7fecd681",
+  "prompts": {},
+  "sessions": {
+    "s_aa7975c82918df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "243dab4e-bead-405b-88cf-fcc6bd7bce0e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
