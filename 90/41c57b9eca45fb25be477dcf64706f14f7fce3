@@ -1,0 +1,23 @@
+apps/api/test/modules/projects/server-log-stream.test.ts
+  s_9d6c41e6aa613a::t_2d61b2f6c574e9 1-124,141
+  s_9d6c41e6aa613a::t_7e5e0a8fe9dc8a 125-140
+apps/api/src/modules/projects/project.controller.ts
+  s_9d6c41e6aa613a::t_6682879ab60946 37
+  s_9d6c41e6aa613a::t_142a24c5f7efbe 1173-1182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "9041c57b9eca45fb25be477dcf64706f14f7fce3",
+  "prompts": {},
+  "sessions": {
+    "s_9d6c41e6aa613a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d5457889-301f-4405-960d-a8f636e48285",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
