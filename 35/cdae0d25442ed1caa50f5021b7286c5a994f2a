@@ -1,0 +1,19 @@
+apps/dashboard/src/app/(dashboard)/projects/[id]/components/DomainSettings.tsx
+  s_9d6c41e6aa613a::t_453458e9004654 737-739,743,745-751,754
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "35cdae0d25442ed1caa50f5021b7286c5a994f2a",
+  "prompts": {},
+  "sessions": {
+    "s_9d6c41e6aa613a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d5457889-301f-4405-960d-a8f636e48285",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
