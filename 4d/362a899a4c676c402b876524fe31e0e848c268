@@ -1,0 +1,44 @@
+packages/adapters/src/types.ts
+  s_fa969e0b016a5a::t_18d574cab8a80e 196-198
+apps/api/src/modules/github/clone-auth.ts
+  s_fa969e0b016a5a::t_b26c8165b1d0a9 62-67
+  s_fa969e0b016a5a::t_ff569abf35257a 114,119,122
+  s_fa969e0b016a5a::t_db2dc4e450ac7a 244
+apps/api/test/modules/gitlab/clone-auth-gitlab.test.ts
+  s_fa969e0b016a5a::t_d7788ae2cf4eb2 56-58
+  s_fa969e0b016a5a::t_3c69a714780395 74,87,97
+apps/api/src/modules/deployments/build-config.ts
+  s_fa969e0b016a5a::t_10040cd38ffda9 41-42,49-60,87
+apps/api/src/modules/deployments/build-pipeline.ts
+  s_fa969e0b016a5a::t_abcf61a42073de 752,865
+apps/api/src/modules/deployments/compose/build.service.ts
+  s_fa969e0b016a5a::t_c05b89a20d21ac 184,371,407
+apps/api/src/modules/deployments/compose/pipeline.ts
+  s_fa969e0b016a5a::t_9974e1a7012a47 66,103,132
+apps/api/test/modules/github/clone-auth-precedence.test.ts
+  s_fa969e0b016a5a::t_0c0441b7350386 51,60,90,98,132,213,259
+packages/adapters/src/runtime/build-pipeline.ts
+  s_fa969e0b016a5a::t_2ced982dff3a91 252
+packages/adapters/src/runtime/cloud.ts
+  s_fa969e0b016a5a::t_5161962baaa07a 915,1185
+packages/adapters/src/runtime/docker-build-context.ts
+  s_fa969e0b016a5a::t_7206be9a979f07 285
+packages/adapters/src/runtime/docker.ts
+  s_fa969e0b016a5a::t_d868e469bdebf4 914
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "4d362a899a4c676c402b876524fe31e0e848c268",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
