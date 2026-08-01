@@ -1,0 +1,21 @@
+apps/api/src/modules/gitlab/gitlab.token.ts
+  s_fa969e0b016a5a::t_98ed978c7d40dc 1-70
+apps/api/test/modules/gitlab/gitlab.token.test.ts
+  s_fa969e0b016a5a::t_75d2383d90d51a 1-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "e7f1112cfb9378cf1375c7a82a657e20e91b4c51",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
