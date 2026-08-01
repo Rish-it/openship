@@ -1,0 +1,23 @@
+apps/api/test/modules/git/git-provider.registry.test.ts
+  s_fa969e0b016a5a::t_4fbf8ac2489d08 1-32
+apps/api/src/modules/git/git-provider.registry.ts
+  s_fa969e0b016a5a::t_435c71ac925c17 1-3,8-35
+  s_fa969e0b016a5a::t_77c5f6ca1befee 4-7,36
+  s_fa969e0b016a5a::t_12e1066c49d8fc 37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "60bcf958a7950f1aa96291fd4718e200b95bc00b",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
