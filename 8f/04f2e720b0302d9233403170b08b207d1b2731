@@ -1,0 +1,22 @@
+apps/api/src/modules/github/github.auth.ts
+  s_fa969e0b016a5a::t_9391b1bd09536a 518
+  s_fa969e0b016a5a::t_0e033db85f4617 23
+apps/api/src/lib/oauth-token.ts
+  s_fa969e0b016a5a::t_ab883d344bbbeb 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "8f04f2e720b0302d9233403170b08b207d1b2731",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
