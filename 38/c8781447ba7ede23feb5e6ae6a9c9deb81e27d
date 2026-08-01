@@ -1,0 +1,24 @@
+apps/api/src/modules/gitlab/gitlab.webhook.ts
+  s_fa969e0b016a5a::t_d0b59da61627e2 1-137
+apps/api/src/modules/webhooks/webhook.types.ts
+  s_fa969e0b016a5a::t_14967ba6ee40f1 30-31
+  s_fa969e0b016a5a::t_112ce0aa3eb11e 10-11
+apps/api/test/modules/gitlab/gitlab.webhook-provider.test.ts
+  s_fa969e0b016a5a::t_7b2f98ce232065 1-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "38c8781447ba7ede23feb5e6ae6a9c9deb81e27d",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
