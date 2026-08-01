@@ -1,0 +1,22 @@
+apps/api/src/modules/projects/project-teardown.ts
+  s_fa969e0b016a5a::t_1ba5178cb3f37b 600-601,606
+  s_fa969e0b016a5a::t_dc4816ecb3a82c 42,614
+apps/api/src/modules/projects/project-teardown.record-only.test.ts
+  s_fa969e0b016a5a::t_fe8f4b173fa9f2 66-71,91-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "0e9cc136eeed38989c3cf09fafc8676612ab6f5f",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
