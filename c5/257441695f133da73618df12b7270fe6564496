@@ -1,0 +1,27 @@
+apps/dashboard/src/app/(dashboard)/settings/_components/GitLabConnection.tsx
+  s_fa969e0b016a5a::t_befd0858c002d2 1-106
+apps/dashboard/src/app/(dashboard)/settings/page.tsx
+  s_fa969e0b016a5a::t_ca733f4bd50359 29,117
+apps/dashboard/src/i18n/i18n-parity.test.ts
+  s_fa969e0b016a5a::t_14a443e9c849ab 43-48
+apps/dashboard/src/i18n/locales/en/settings.json
+  s_fa969e0b016a5a::t_8b138f31ed0878 185-194
+apps/dashboard/src/lib/auth-client.ts
+  s_fa969e0b016a5a::t_e96293dff2b1b9 81-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "c5257441695f133da73618df12b7270fe6564496",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
