@@ -1,0 +1,21 @@
+apps/api/src/modules/projects/project-webhook-secret.ts
+  s_fa969e0b016a5a::t_489aa0f62740ad 1-52
+apps/api/src/modules/github/github.service.ts
+  s_fa969e0b016a5a::t_26cc636d025346 34-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "73399e4658a1425d6bed8be94e5e9a9bc23ad49d",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
