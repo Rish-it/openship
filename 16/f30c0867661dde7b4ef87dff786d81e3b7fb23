@@ -1,0 +1,21 @@
+apps/api/src/lib/rest-client.ts
+  s_fa969e0b016a5a::t_53b0588b3d047e 1-94
+apps/api/src/modules/github/github.http.ts
+  s_fa969e0b016a5a::t_3bb756518a2095 27,29-31,33,37,41-42,44-45,48,56-61,64-70,82,86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "16f30c0867661dde7b4ef87dff786d81e3b7fb23",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
