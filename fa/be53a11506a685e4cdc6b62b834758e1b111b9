@@ -1,0 +1,21 @@
+apps/api/src/modules/gitlab/gitlab.mappers.ts
+  s_fa969e0b016a5a::t_3046ab0bf5e3ee 1-72
+apps/api/test/modules/gitlab/gitlab.mappers.test.ts
+  s_fa969e0b016a5a::t_0ba9e43668a7e7 1-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "fabe53a11506a685e4cdc6b62b834758e1b111b9",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
