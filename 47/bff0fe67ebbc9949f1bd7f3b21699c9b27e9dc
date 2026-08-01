@@ -1,0 +1,23 @@
+apps/api/src/config/env.ts
+  s_fa969e0b016a5a::t_0b8a1bebbca451 224-225
+apps/api/src/lib/auth.ts
+  s_fa969e0b016a5a::t_f263c3bc694a11 189-200
+.env.example
+  s_fa969e0b016a5a::t_58c43cbd85f54c 112-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "47bff0fe67ebbc9949f1bd7f3b21699c9b27e9dc",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
