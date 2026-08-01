@@ -1,0 +1,28 @@
+apps/api/src/modules/projects/project.controller.ts
+  s_fa969e0b016a5a::t_78385b88a0eece 1415,1420,1423-1429
+apps/api/src/lib/public-url.ts
+  s_fa969e0b016a5a::t_57201146027549 236-241
+apps/api/test/modules/projects/link-repo-provider.test.ts
+  s_fa969e0b016a5a::t_fd365467506a3c 38-45
+  s_fa969e0b016a5a::t_ffddd6aadbbe54 1-37,46-124
+apps/api/src/modules/projects/project-crud.service.ts
+  s_fa969e0b016a5a::t_2e2d1b42b992da 685-687
+  s_fa969e0b016a5a::t_e75a34fa0a05a7 628-634,641-646,654-656,659,666-669
+  s_fa969e0b016a5a::t_18e37e0ca7bbc6 700,708
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "756817afb84924848bc6c1751daf1b7dd2ee7a42",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
