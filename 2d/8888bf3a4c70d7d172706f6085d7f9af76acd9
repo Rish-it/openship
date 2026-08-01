@@ -1,0 +1,26 @@
+apps/api/src/modules/deployments/build.service.ts
+  s_fa969e0b016a5a::t_ceaa6b82d65186 427-432
+  s_fa969e0b016a5a::t_ce1535c06e260b 441-445
+  s_fa969e0b016a5a::t_4273ec4e3cb6f1 42
+apps/api/test/modules/deployments/build.service.test.ts
+  s_fa969e0b016a5a::t_c3a1157ab76a1c 79-84
+  s_fa969e0b016a5a::t_7689c85db80d85 242-245,247-266
+  s_fa969e0b016a5a::t_55bccb67abf752 246
+  s_fa969e0b016a5a::t_04049ffefa8f4d 6,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "2d8888bf3a4c70d7d172706f6085d7f9af76acd9",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
