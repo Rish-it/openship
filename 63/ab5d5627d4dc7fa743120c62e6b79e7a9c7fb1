@@ -1,0 +1,29 @@
+packages/adapters/src/runtime/git-clone.ts
+  s_fa969e0b016a5a::t_fd03b175f21740 73-75
+  s_fa969e0b016a5a::t_f512da70b05f89 200
+  s_fa969e0b016a5a::t_daed943b8a5074 25-27,32-35,37-41,46
+packages/adapters/src/runtime/git-clone.test.ts
+  s_fa969e0b016a5a::t_dc8d4f79ffbd39 38-44
+  s_fa969e0b016a5a::t_88d8b29f86abc3 75-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "63ab5d5627d4dc7fa743120c62e6b79e7a9c7fb1",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
