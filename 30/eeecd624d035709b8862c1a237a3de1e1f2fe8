@@ -1,0 +1,25 @@
+apps/api/test/modules/git/git.controller.test.ts
+  s_fa969e0b016a5a::t_43deb9476d9a79 1-97
+apps/api/src/modules/git/git.routes.ts
+  s_fa969e0b016a5a::t_fe1b584ab3d027 1-34
+apps/api/src/modules/git/git.controller.ts
+  s_fa969e0b016a5a::t_407c88c0771b09 1-57
+apps/api/src/app.ts
+  s_fa969e0b016a5a::t_121c8022ad90f9 35-36,38,135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "30eeecd624d035709b8862c1a237a3de1e1f2fe8",
+  "prompts": {},
+  "sessions": {
+    "s_fa969e0b016a5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8580ea74-bba4-4328-820e-14b10baaf6eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
