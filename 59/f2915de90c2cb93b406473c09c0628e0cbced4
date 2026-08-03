@@ -1,0 +1,25 @@
+apps/dashboard/src/app/(dashboard)/projects/[id]/components/services/ServiceDetailPanel.tsx
+  s_e4c84c3ffb4173::t_5ee315d49e8c57 14,69,72-73,216-219,222-240,242-243,248-261,263-271
+  s_e4c84c3ffb4173::t_6b0a425215df8a 763-769
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "59f2915de90c2cb93b406473c09c0628e0cbced4",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_e4c84c3ffb4173": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc60c-ff3d-7831-964c-f1377aefe96f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
