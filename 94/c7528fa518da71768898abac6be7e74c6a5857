@@ -1,0 +1,26 @@
+apps/api/src/modules/migration/migrate.service.ts
+  s_e4c84c3ffb4173::t_68a7aebee14473 25,40,228,248,271-278,292,308-321,432,478,901,903
+apps/api/src/modules/migration/migrate.service.test.ts
+  s_e4c84c3ffb4173::t_ca37f79e5e918a 4,29-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "94c7528fa518da71768898abac6be7e74c6a5857",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_e4c84c3ffb4173": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc60c-ff3d-7831-964c-f1377aefe96f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
