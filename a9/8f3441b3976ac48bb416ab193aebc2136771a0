@@ -1,0 +1,28 @@
+apps/api/src/modules/services/service.schema.ts
+  s_e4c84c3ffb4173::t_c14ff5ee1f91a0 313-318
+apps/api/src/modules/services/service-env.test.ts
+  s_e4c84c3ffb4173::t_dc9c3016f25fb7 20-38
+apps/api/src/modules/services/service.service.ts
+  s_e4c84c3ffb4173::t_8d10e7afe43e07 842,845,848-852,854,864,867-870,873-875
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "a98f3441b3976ac48bb416ab193aebc2136771a0",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_e4c84c3ffb4173": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc60c-ff3d-7831-964c-f1377aefe96f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
