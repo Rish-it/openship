@@ -1,0 +1,32 @@
+apps/dashboard/src/app/(dashboard)/projects/[id]/components/env-diff.ts
+  s_e4c84c3ffb4173::t_8d10e7afe43e07 26-50
+apps/dashboard/src/lib/api/services.ts
+  s_e4c84c3ffb4173::t_8d10e7afe43e07 297
+apps/dashboard/src/app/(dashboard)/projects/[id]/components/services/ServiceDetailPanel.tsx
+  s_e4c84c3ffb4173::t_8d10e7afe43e07 56,233,265,273,276
+  s_e4c84c3ffb4173::t_288914296e8d2f 218-219,226-227,238-243,764-792,796
+apps/dashboard/src/app/(dashboard)/projects/[id]/components/env-diff.test.ts
+  s_e4c84c3ffb4173::t_dc9c3016f25fb7 2,104-119
+  s_e4c84c3ffb4173::t_55d4f261ab0243 120-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "ba18a74b7af02cc51eb52cd084264b507b87bcdd",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_e4c84c3ffb4173": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc60c-ff3d-7831-964c-f1377aefe96f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
