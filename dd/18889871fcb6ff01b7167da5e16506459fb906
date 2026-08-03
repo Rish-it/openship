@@ -1,0 +1,32 @@
+apps/api/src/modules/migration/docker-reconcile.ts
+  s_e4c84c3ffb4173::t_a66345b098342a 182,273,417,453,589,605
+  s_e4c84c3ffb4173::t_6c1c423379295e 332-336
+apps/api/test/modules/migration/docker-inspect.test.ts
+  s_e4c84c3ffb4173::t_500d2dc83807a2 163-174
+  s_e4c84c3ffb4173::t_6b0a425215df8a 150
+  s_e4c84c3ffb4173::t_7807aa9d25f8bf 160-161
+  s_e4c84c3ffb4173::t_36605491edb88a 162
+apps/api/src/modules/migration/docker-inspect.service.ts
+  s_e4c84c3ffb4173::t_a66345b098342a 216-218,222-225
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "dd18889871fcb6ff01b7167da5e16506459fb906",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_e4c84c3ffb4173": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc60c-ff3d-7831-964c-f1377aefe96f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
