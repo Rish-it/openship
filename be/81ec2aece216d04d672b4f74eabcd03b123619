@@ -1,0 +1,27 @@
+apps/api/test/e2e/migration-env.e2e.test.ts
+  s_e4c84c3ffb4173::t_0dec9b75439b53 43,161-163,173-177,185-188,190-192,224-225
+  s_e4c84c3ffb4173::t_34eb7b6085561c 1-42,44-160,164-172,178-184,189,193-223,226-227
+apps/api/src/modules/migration/docker-inspect.service.ts
+  s_e4c84c3ffb4173::t_39cf605722acad 43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "be81ec2aece216d04d672b4f74eabcd03b123619",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_e4c84c3ffb4173": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc60c-ff3d-7831-964c-f1377aefe96f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
