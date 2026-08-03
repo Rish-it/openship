@@ -1,0 +1,24 @@
+apps/api/src/modules/migration/docker-reconcile.ts
+  s_ad03e5fb04078d::t_528a4bf88754bd 458
+  s_ad03e5fb04078d::t_aec56214061bad 340-350
+  s_ad03e5fb04078d::t_fb73dd8784e10e 430,457
+apps/api/test/modules/migration/docker-inspect.test.ts
+  s_ad03e5fb04078d::t_d1073c0ad8b14f 75-96
+  s_ad03e5fb04078d::t_e57376d44275e9 186-209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "1848b944ec492caeb7b36fd6a0e62e1dbc77883a",
+  "prompts": {},
+  "sessions": {
+    "s_ad03e5fb04078d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "187ad455-b899-41e7-8f06-71c61880f605",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
