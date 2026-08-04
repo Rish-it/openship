@@ -1,0 +1,40 @@
+apps/web/src/components/landing/section-header.tsx
+  s_531dc5f16a47bc::t_5f2ea52ff9e9c1 3
+  s_531dc5f16a47bc::t_ca7152cef1b24c 46-53
+  s_531dc5f16a47bc::t_0bc767c8100ce5 1-2,4,25,31-45,54-59
+  s_531dc5f16a47bc::t_0fb7ce050203e6 5-24,60,62-76
+  s_531dc5f16a47bc::t_3f30bf280ae224 26-30,61
+apps/web/src/components/landing/index.ts
+  s_73743889ed2184::t_af0ae2c03fa634 3
+apps/web/src/styles/landing.css
+  s_73743889ed2184::t_954cd8f36942b6 223-287
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "69da897be08fbd39f092af9123311d23362b1075",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_531dc5f16a47bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "723b05c5-dd41-4eb1-83d0-e993576a0577",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_73743889ed2184": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "46fb8c38-08d4-4f8f-a497-9648eb2dbfd7",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
