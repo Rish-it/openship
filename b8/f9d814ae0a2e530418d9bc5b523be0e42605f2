@@ -1,0 +1,31 @@
+apps/web/src/styles/landing.css
+  s_76ba7b5b9150cf::t_99599e0868e3d1 120-121
+  s_76ba7b5b9150cf::t_00dce26dffac17 124-126
+  s_76ba7b5b9150cf::t_9d75a275c63256 55-63,65-80
+  s_76ba7b5b9150cf::t_812d14922f7f96 64
+  s_76ba7b5b9150cf::t_ddf4c1b186030e 194,297
+apps/web/src/components/landing/navbar.tsx
+  s_76ba7b5b9150cf::t_e316891dd83dc7 91
+  s_76ba7b5b9150cf::t_f78eaf47ce5572 40-42,46
+  s_76ba7b5b9150cf::t_552060949fd844 66,70-72,79
+  s_76ba7b5b9150cf::t_bc9afe7c1b8384 128
+  s_76ba7b5b9150cf::t_a5fea9b13715fb 68
+  s_76ba7b5b9150cf::t_cf9b068be046e0 162,172,185,192
+  s_76ba7b5b9150cf::t_95a336135667b0 107,116,118-119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "b8f9d814ae0a2e530418d9bc5b523be0e42605f2",
+  "prompts": {},
+  "sessions": {
+    "s_76ba7b5b9150cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9ba5dae5-950e-468f-b789-6a21910018b9",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
