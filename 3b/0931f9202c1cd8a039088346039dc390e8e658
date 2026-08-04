@@ -1,0 +1,25 @@
+apps/web/src/styles/theme.css
+  s_ccba53324377e7::t_4d021f4b7d3033 104-106
+apps/web/src/styles/landing.css
+  s_ccba53324377e7::t_73beac695e0228 245-247,254,259-262,271-274
+  s_ccba53324377e7::t_556dd9ed4734f6 74,76,79
+  s_ccba53324377e7::t_69c28c48a9e172 279-280,284,287,295-296
+  s_ccba53324377e7::t_c70e28b5521436 307-308
+  s_ccba53324377e7::t_8af6348e51907b 329,332-333
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "3b0931f9202c1cd8a039088346039dc390e8e658",
+  "prompts": {},
+  "sessions": {
+    "s_ccba53324377e7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5c41ab62-2327-4949-bdf0-ef0771c4b44f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
