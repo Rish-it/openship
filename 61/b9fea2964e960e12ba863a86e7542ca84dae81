@@ -1,0 +1,26 @@
+apps/web/src/components/landing/navbar.tsx
+  s_73743889ed2184::t_d99520c6e648a1 3,17-29,34-35,37-39,42-43,45,53,55,62-64,67-83,87,89,91,93,104,106,108,111,117,127,132,137,144
+apps/web/src/styles/landing.css
+  s_73743889ed2184::t_018d1af696c216 35,38-49,51-62,65-84,86-95,97,99-126,129-134,136-144,146-170,172-266
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "61b9fea2964e960e12ba863a86e7542ca84dae81",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_73743889ed2184": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "46fb8c38-08d4-4f8f-a497-9648eb2dbfd7",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
