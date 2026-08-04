@@ -1,0 +1,19 @@
+apps/web/src/styles/theme.css
+  s_ccba53324377e7::t_511a63803732c3 109-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "f31b8e3e5cf44a700d0ee9e14e994f1bfaf2bd68",
+  "prompts": {},
+  "sessions": {
+    "s_ccba53324377e7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5c41ab62-2327-4949-bdf0-ef0771c4b44f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
