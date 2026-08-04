@@ -1,0 +1,24 @@
+apps/web/src/app/(docs)/docs/layout.tsx
+  s_e1c36f38ec8beb::t_fdfad10ac3a72b 12-14,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "e96bd049a1f9fd2dc778c96bcbe66dd6659a96c4",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_e1c36f38ec8beb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fce39-c516-74e3-a742-3a13ef228033",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
