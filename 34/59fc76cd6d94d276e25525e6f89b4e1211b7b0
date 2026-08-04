@@ -1,0 +1,28 @@
+apps/web/src/components/landing/footer.tsx
+  s_73743889ed2184::t_6e40bfbe476655 30-54,57-66,68,70-72,74-76,78,82-99,103-126
+apps/web/src/styles/fonts.css
+  s_73743889ed2184::t_33a7b4219bc45a 85-109
+apps/web/src/styles/landing.css
+  s_73743889ed2184::t_06605d28202d42 3379-3561
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "3459fc76cd6d94d276e25525e6f89b4e1211b7b0",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_73743889ed2184": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "46fb8c38-08d4-4f8f-a497-9648eb2dbfd7",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
