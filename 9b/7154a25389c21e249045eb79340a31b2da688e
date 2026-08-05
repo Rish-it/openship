@@ -1,0 +1,23 @@
+apps/dashboard/package.json
+  s_9ad1d22ebe3d71::t_c37974ff5289a8 13,35
+apps/web/package.json
+  s_9ad1d22ebe3d71::t_704bc0b8f3f0d0 24
+bun.lock
+  s_9ad1d22ebe3d71::t_795d226510547c 3,20,54,98,119,142,146,158,279,444,532,534,536,538,540,542,544,546,548,550,552,554,556,558,560,562,564,566,568,570,572,574,576,578-582,656,658,660,662,664,666,668,670,672,2208,2216,2396,2616,3114-3115,3310-3311,3342-3343,3426-3427,3724-3725
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "9b7154a25389c21e249045eb79340a31b2da688e",
+  "prompts": {},
+  "sessions": {
+    "s_9ad1d22ebe3d71": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "86c04917-1f3b-4b4c-bea8-c4fffbb4166d",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
