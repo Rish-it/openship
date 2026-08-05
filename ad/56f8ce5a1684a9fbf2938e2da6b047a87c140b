@@ -1,0 +1,36 @@
+apps/web/src/app/(site)/(marketing)/pricing/page.tsx
+  s_9ad1d22ebe3d71::t_1b6880f30a85b3 1
+  s_9ad1d22ebe3d71::t_99b173e3f57040 212,214-215,217
+apps/web/src/components/landing/mail-server.tsx
+  s_9ad1d22ebe3d71::t_e5bd44afdf1e81 43,48
+  s_9ad1d22ebe3d71::t_280bd907dffd92 4
+apps/web/src/app/(site)/(marketing)/contact/page.tsx
+  s_9ad1d22ebe3d71::t_55feff7f2e766e 2
+  s_9ad1d22ebe3d71::t_71cb2a8597a3ae 91-92
+apps/web/src/components/landing/hero.tsx
+  s_9ad1d22ebe3d71::t_089684cadda489 52,57-58,63
+  s_9ad1d22ebe3d71::t_988f7a1163129b 4
+apps/web/src/components/landing/final-cta.tsx
+  s_9ad1d22ebe3d71::t_1afae006060b37 26,28
+  s_9ad1d22ebe3d71::t_b848f8aa4c0071 1-2
+apps/web/src/app/(site)/(marketing)/about/page.tsx
+  s_9ad1d22ebe3d71::t_eb8735b7603300 145
+  s_9ad1d22ebe3d71::t_919872bfb8b93c 2
+  s_9ad1d22ebe3d71::t_42c8fda719df04 138-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "ad56f8ce5a1684a9fbf2938e2da6b047a87c140b",
+  "prompts": {},
+  "sessions": {
+    "s_9ad1d22ebe3d71": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "86c04917-1f3b-4b4c-bea8-c4fffbb4166d",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
