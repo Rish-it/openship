@@ -1,0 +1,19 @@
+apps/dashboard/src/components/sidebar.tsx
+  s_76ba7b5b9150cf::t_2f951104d779bc 194-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "1051a7f64d60abb4fc061d962f3a0c368266d719",
+  "prompts": {},
+  "sessions": {
+    "s_76ba7b5b9150cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9ba5dae5-950e-468f-b789-6a21910018b9",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}

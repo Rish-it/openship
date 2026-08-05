@@ -1,0 +1,19 @@
+apps/dashboard/src/app/mcp/authorize/page.tsx
+  s_76ba7b5b9150cf::t_7733b0f0002c39 625-627
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "5d0813262fa49e8eaaea4405c24eb810ce5dc5ed",
+  "prompts": {},
+  "sessions": {
+    "s_76ba7b5b9150cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9ba5dae5-950e-468f-b789-6a21910018b9",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
