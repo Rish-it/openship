@@ -75,8 +75,8 @@ export default async function FeatureDetailPage({ params }: { params: Params }) 
         <section className="mx-auto max-w-6xl px-6 pb-8 pt-16 sm:pt-20">
           <div className="grid gap-10 md:grid-cols-[1.4fr_1fr]">
             <div className="ft-detail-body">
-              {feature.body.map((p, i) => (
-                <p key={i}>{p}</p>
+              {feature.body.map((p) => (
+                <p key={p}>{p}</p>
               ))}
             </div>
             <div className="space-y-3">
