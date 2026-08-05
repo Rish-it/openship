@@ -1,0 +1,61 @@
+apps/web/src/styles/landing.css
+  s_6f4d4bdbc14d6d::t_b3bd78d8ebe128 338-341
+  s_e1c36f38ec8beb::t_a4a501db4b3b49 1937,1954-1958
+  s_6f4d4bdbc14d6d::t_a903d254f6571f 440-443
+  s_6f4d4bdbc14d6d::t_87ceb04f8dd86f 307-308,310-317
+  s_e1c36f38ec8beb::t_9359c78415564b 1963
+  s_e1c36f38ec8beb::t_b27c9cb3e3456e 2041
+  s_6f4d4bdbc14d6d::t_47bf2867855c6e 575-581,589-592,594-595,598-599,601-603,607-608,610
+  s_e1c36f38ec8beb::t_287df674dffd60 1948
+  s_6f4d4bdbc14d6d::t_c7f765730545f1 3135-3138
+  s_e1c36f38ec8beb::t_172d57c9b334d2 47
+  s_e1c36f38ec8beb::t_d221b19252785b 1819-1839,1855
+  s_e1c36f38ec8beb::t_294fc45b97a826 1794-1804,1806-1807,1842-1843,1863,1865-1866,1870-1871,1877-1878,1900-1901
+  s_e1c36f38ec8beb::t_57005de55eb1ab 305-306
+apps/web/src/components/landing/mail-server.tsx
+  s_e1c36f38ec8beb::t_294fc45b97a826 1-3,10-11,14-28,108
+  s_e1c36f38ec8beb::t_c1ee47f80bb3fb 110,113,115-130,132-140,149-150
+  s_e1c36f38ec8beb::t_a4a501db4b3b49 141-148,162-164,168-170,174-176
+  s_e1c36f38ec8beb::t_d221b19252785b 81-107
+apps/web/src/components/landing/interactive-terminal.tsx
+  s_e1c36f38ec8beb::t_6274ebfdc528fc 39-40,129
+  s_e1c36f38ec8beb::t_ff643c6f80a9e7 1-38,41-128,130-137
+apps/web/src/components/landing/comparison.tsx
+  s_e1c36f38ec8beb::t_9359c78415564b 284-285,320
+  s_e1c36f38ec8beb::t_1520460dafac62 303,316
+apps/web/src/components/landing/how-it-works.tsx
+  s_e1c36f38ec8beb::t_63428ea5972646 1,3,5-10,13,15-24,27-38,41-52,55-66,77-78,81-83,91-99,101-106
+apps/web/src/components/landing/how-it-works.module.css
+  s_e1c36f38ec8beb::t_c68bb1f26f526a 1-278
+apps/web/src/components/landing/section-header.tsx
+  s_e1c36f38ec8beb::t_8652da56667035 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "0dc341b82b2c3ae7afedc5769e551a108aae6bf6",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_6f4d4bdbc14d6d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a57d6f7f-abe6-4e91-93ae-44454ef880dc",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_e1c36f38ec8beb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fce39-c516-74e3-a742-3a13ef228033",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
