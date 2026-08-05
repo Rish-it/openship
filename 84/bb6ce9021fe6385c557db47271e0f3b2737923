@@ -1,0 +1,19 @@
+apps/web/src/app/(site)/(marketing)/features/[slug]/page.tsx
+  s_9ad1d22ebe3d71::t_eb28ae9fb26d81 78-79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "84bb6ce9021fe6385c557db47271e0f3b2737923",
+  "prompts": {},
+  "sessions": {
+    "s_9ad1d22ebe3d71": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "86c04917-1f3b-4b4c-bea8-c4fffbb4166d",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
