@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { Navbar, Footer } from "@/components/landing";
 import { ContactForm } from "@/components/contact-form";
 
@@ -87,8 +88,8 @@ export default function ContactPage() {
 
                 <footer className="legal-foot">
                   <p>
-                    Prefer the docs? Read the <a href="/docs">documentation</a> or{" "}
-                    <a href="/trust">Trust &amp; Security</a>.
+                    Prefer the docs? Read the <Link href="/docs">documentation</Link> or{" "}
+                    <Link href="/trust">Trust &amp; Security</Link>.
                   </p>
                 </footer>
               </article>

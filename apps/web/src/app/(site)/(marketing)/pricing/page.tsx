@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Navbar, Footer } from "@/components/landing";
 
 /* ─── Plans ──────────────────────────────────────────────────── */
@@ -208,12 +209,12 @@ export default function PricingPage() {
                 moment plans go live.
               </p>
               <div className="pp-end-cta-row">
-                <a href="/contact" className="pp-btn pp-btn--primary">
+                <Link href="/contact" className="pp-btn pp-btn--primary">
                   Get notified
-                </a>
-                <a href="/docs" className="pp-btn pp-btn--ghost">
+                </Link>
+                <Link href="/docs" className="pp-btn pp-btn--ghost">
                   Explore the platform
-                </a>
+                </Link>
               </div>
             </div>
           </div>

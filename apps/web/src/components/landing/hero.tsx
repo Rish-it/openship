@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 
 const STACKS: { name: string; icon: string; darkIcon?: string }[] = [
   { name: 'Next.js',     icon: 'https://cdn.simpleicons.org/nextdotjs/000000', darkIcon: 'https://cdn.simpleicons.org/nextdotjs/FFFFFF' },
@@ -48,18 +49,18 @@ export function Hero() {
             </p>
 
             <div className="lp-hero-cta-row animate-fade-in-up animate-delay-200">
-              <a href="/login" className="lp-hero-btn lp-hero-btn--primary">
+              <Link href="/login" className="lp-hero-btn lp-hero-btn--primary">
                 Get started
                 <svg className="lp-hero-btn-arrow" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M7 17L17 7m0 0H9m8 0v8" />
                 </svg>
-              </a>
-              <a href="/docs/getting-started/quickstart" className="lp-hero-btn lp-hero-btn--ghost">
+              </Link>
+              <Link href="/docs/getting-started/quickstart" className="lp-hero-btn lp-hero-btn--ghost">
                 Self host
                 <svg className="lp-hero-btn-arrow" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M7 17L17 7m0 0H9m8 0v8" />
                 </svg>
-              </a>
+              </Link>
             </div>
 
             <button
