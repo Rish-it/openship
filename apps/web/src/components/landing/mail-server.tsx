@@ -1,6 +1,7 @@
 "use client";
 
 import { useRef } from "react";
+import Link from "next/link";
 import { SectionHeader } from "./section-header";
 
 /**
@@ -39,12 +40,12 @@ export function MailServer({ index, total }: { index: number; total: number }) {
             </h2>
 
             <div className="uc-cta-cluster">
-              <a href="/mail" className="uc-cta">
+              <Link href="/mail" className="uc-cta">
                 See more
                 <svg viewBox="0 0 14 14" aria-hidden="true">
                   <path d="M3 7h8m0 0L7.5 3.5M11 7l-3.5 3.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" fill="none" />
                 </svg>
-              </a>
+              </Link>
             </div>
           </div>
         </div>

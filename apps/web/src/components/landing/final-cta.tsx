@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 /**
  * The page's sign-off. A plate that meets the rails, so the grid closes on
  * the same lines it opened on rather than on a floating card.
@@ -21,9 +23,9 @@ export function FinalCta() {
             No lock-in, no configuration files.
           </p>
           <div className="fcta-row">
-            <a href="/login" className="fcta-btn fcta-btn--primary">
+            <Link href="/login" className="fcta-btn fcta-btn--primary">
               Get started
-            </a>
+            </Link>
             <a
               href="https://github.com/oblien/openship"
               target="_blank"

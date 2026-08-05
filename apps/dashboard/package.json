@@ -10,7 +10,7 @@
     "dev:fresh": "rm -rf .next/cache && ENV_FILE=.env NODE_OPTIONS=\"$NODE_OPTIONS --import ./scripts/load-env.mjs\" next dev",
     "build": "next build --webpack",
     "start": "ENV_FILE=.env NODE_OPTIONS=\"$NODE_OPTIONS --import ./scripts/load-env.mjs\" next start",
-    "lint": "next lint",
+    "lint": "tsc --noEmit",
     "test": "vitest run",
     "i18n:check": "node scripts/check-i18n.mjs",
     "clean": "rm -rf .next .turbo node_modules"
@@ -32,7 +32,7 @@
     "clsx": "^2.1.1",
     "country-flag-icons": "^1.6.20",
     "lucide-react": "^0.577.0",
-    "next": "^16.1.6",
+    "next": "^16.2.6",
     "react": "^19.2.4",
     "react-chartjs-2": "^5.3.1",
     "react-dom": "^19.2.4",

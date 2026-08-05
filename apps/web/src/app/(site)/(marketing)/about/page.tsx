@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { Navbar, Footer } from "@/components/landing";
 
 const PAGE_TITLE = "About";
@@ -134,14 +135,14 @@ export default function AboutPage() {
                     fastest with them.
                   </p>
                   <p className="legal-p">
-                    New here? Start with the <a href="/docs">documentation</a> or{" "}
-                    <a href="/download">install in one command</a>.
+                    New here? Start with the <Link href="/docs">documentation</Link> or{" "}
+                    <Link href="/download">install in one command</Link>.
                   </p>
                 </section>
 
                 <footer className="legal-foot">
                   <p>
-                    Want to reach us? Head to <a href="/contact">Contact</a>.
+                    Want to reach us? Head to <Link href="/contact">Contact</Link>.
                   </p>
                 </footer>
               </article>
