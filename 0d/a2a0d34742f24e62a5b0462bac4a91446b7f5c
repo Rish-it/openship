@@ -1,0 +1,22 @@
+packages/adapters/src/runtime/issue-514-remote-static-deploy.test.ts
+  s_39f0df236e5384::t_34ee460e24f0f4 71
+  s_39f0df236e5384::t_efd7ed62c35953 1-5,8,19-22,31,33,35-38,63-67,69-70,78-95,98-103,114-115
+  s_39f0df236e5384::t_e0ae13ce4610ae 72-77
+  s_39f0df236e5384::t_87cdb39eb33d5f 6-7,9-18,23-30,32,34,39-62,68,96-97,104-113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "0da2a0d34742f24e62a5b0462bac4a91446b7f5c",
+  "prompts": {},
+  "sessions": {
+    "s_39f0df236e5384": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f99f560c-7b33-445c-84f3-e7994ca09ff1",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
