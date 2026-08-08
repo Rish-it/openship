@@ -1,0 +1,35 @@
+docker/docker-compose.yml
+  s_39f0df236e5384::t_eb5abebe6d4614 136
+  s_39f0df236e5384::t_0d59a90fd3df22 133-135
+.env.example
+  s_39f0df236e5384::t_2597941b841a80 123
+  s_39f0df236e5384::t_c46d831f105ea5 117-118
+packages/adapters/src/system/executor.ts
+  s_39f0df236e5384::t_a786118ce8ef1a 112-113
+apps/cli/test/unit/compose-host-channel.test.ts
+  s_39f0df236e5384::t_32a079be67ab2b 32-38,43-46,53-54
+  s_39f0df236e5384::t_fd9c31a4aef884 167,169-172,175,178-180,183,185-186,191
+apps/cli/src/lib/compose.ts
+  s_39f0df236e5384::t_c481f796e97c18 1521-1524
+  s_39f0df236e5384::t_35f594d1a66b36 549-553
+  s_39f0df236e5384::t_e9993e5ccef003 570-578
+  s_39f0df236e5384::t_1b4840a3144cde 604-607,609,611-617,620-624
+apps/cli/src/lib/repair.ts
+  s_39f0df236e5384::t_97456a2491c0c6 235-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "cc0e0f1b2dc8b3aae7d3d59ba8267ad2a2a5e434",
+  "prompts": {},
+  "sessions": {
+    "s_39f0df236e5384": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f99f560c-7b33-445c-84f3-e7994ca09ff1",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
