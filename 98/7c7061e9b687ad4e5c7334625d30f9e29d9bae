@@ -1,0 +1,27 @@
+apps/dashboard/src/context/services-fetch-state.ts
+  s_bb1f213540a1e9::t_fc66466a9f6f87 1-40
+apps/dashboard/src/context/services-fetch-state.test.ts
+  s_bb1f213540a1e9::t_5ee88831ec6574 1-53
+apps/dashboard/src/context/ProjectSettingsContext.tsx
+  s_bb1f213540a1e9::t_34f857019411d4 734-735,741,755-762,766-770,772-773,778
+  s_bb1f213540a1e9::t_f38188e6df4431 21
+apps/dashboard/src/app/(dashboard)/projects/[id]/components/ServicesTab.tsx
+  s_bb1f213540a1e9::t_4d6973cba6741e 537-549
+  s_bb1f213540a1e9::t_6681ca5f1f4cfc 234-239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "987c7061e9b687ad4e5c7334625d30f9e29d9bae",
+  "prompts": {},
+  "sessions": {
+    "s_bb1f213540a1e9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fdbc5c037ffetX61RQL4Pa6ijG",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
