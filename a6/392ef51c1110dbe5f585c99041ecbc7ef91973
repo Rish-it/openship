@@ -1,0 +1,21 @@
+apps/dashboard/src/app/(dashboard)/projects/[id]/components/ServicesTab.tsx
+  s_bb1f213540a1e9::t_669a06d1b2ca88 62-67
+apps/dashboard/src/context/ProjectSettingsContext.tsx
+  s_bb1f213540a1e9::t_92245fe0118b90 751-758,774-778,781
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "a6392ef51c1110dbe5f585c99041ecbc7ef91973",
+  "prompts": {},
+  "sessions": {
+    "s_bb1f213540a1e9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fdbc5c037ffetX61RQL4Pa6ijG",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
