@@ -1,0 +1,40 @@
+apps/dashboard/src/i18n/locales/ar/projectDetail.json
+  s_8e951381261f8d::t_1151e202fe18e8 170,204,206
+apps/dashboard/src/i18n/locales/zh/projectDetail.json
+  s_8e951381261f8d::t_1151e202fe18e8 170,204,206
+apps/dashboard/src/i18n/locales/es/projectDetail.json
+  s_8e951381261f8d::t_1151e202fe18e8 170,204,206
+apps/dashboard/src/i18n/locales/tr/projectDetail.json
+  s_8e951381261f8d::t_1151e202fe18e8 177,211,213
+apps/dashboard/src/i18n/locales/ja/projectDetail.json
+  s_8e951381261f8d::t_1151e202fe18e8 170,204,206
+apps/dashboard/src/i18n/locales/fr/projectDetail.json
+  s_8e951381261f8d::t_1151e202fe18e8 173,207,209
+apps/dashboard/src/i18n/locales/de/projectDetail.json
+  s_8e951381261f8d::t_1151e202fe18e8 170,204,206
+apps/dashboard/src/i18n/locales/pt/projectDetail.json
+  s_8e951381261f8d::t_1151e202fe18e8 170,204,206
+apps/dashboard/src/i18n/locales/en/projectDetail.json
+  s_8e951381261f8d::t_1151e202fe18e8 177,211,213
+apps/dashboard/src/app/(dashboard)/projects/[id]/components/services/ServiceDetailPanel.tsx
+  s_8e951381261f8d::t_2f001080276c71 249-253
+  s_8e951381261f8d::t_f4ee14a542fc20 283-285,287-290,293,296,299,304
+  s_8e951381261f8d::t_5e3bc0268964a6 272-274
+  s_8e951381261f8d::t_5cfd067ee37735 827,834
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "7e9c0ba51c37b04ab964605534915240cdd829eb",
+  "prompts": {},
+  "sessions": {
+    "s_8e951381261f8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fda1dfc77ffeXfb7LPGWTcJGcj",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
