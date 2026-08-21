@@ -1,0 +1,26 @@
+apps/api/test/modules/deployments/build.service.test.ts
+  s_bb1f213540a1e9::t_2d6690f2db9d86 374
+  s_bb1f213540a1e9::t_0ed640053b1b6f 447
+  s_bb1f213540a1e9::t_4894cca103f52d 478-482
+  s_bb1f213540a1e9::t_e1b4f312ebfb29 528-529
+  s_bb1f213540a1e9::t_68061462949da3 456-461
+  s_bb1f213540a1e9::t_904e815a41b9ec 400-446,448-455,462-477,483-518,520-527,530-536
+  s_bb1f213540a1e9::t_f91d17079f4e98 519
+  s_bb1f213540a1e9::t_8cf6f7b32f7ab5 399
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "1958ffc663961d9655a76706840e47c84f078243",
+  "prompts": {},
+  "sessions": {
+    "s_bb1f213540a1e9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fdbc5c037ffetX61RQL4Pa6ijG",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
