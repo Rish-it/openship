@@ -1,0 +1,21 @@
+apps/dashboard/src/lib/service-env-apply.ts
+  s_bb1f213540a1e9::t_af93af49da4d81 1-13
+apps/dashboard/src/lib/service-env-apply.test.ts
+  s_bb1f213540a1e9::t_37f86456aadd61 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "7aa47218a14842d079946ec96bb8503f65feca00",
+  "prompts": {},
+  "sessions": {
+    "s_bb1f213540a1e9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fdbc5c037ffetX61RQL4Pa6ijG",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
