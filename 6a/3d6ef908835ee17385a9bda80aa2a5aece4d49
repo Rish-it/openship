@@ -1,0 +1,25 @@
+apps/dashboard/src/app/(dashboard)/projects/[id]/components/services/ServiceDetailPanel.tsx
+  s_bb1f213540a1e9::t_8ce7ff50226ca5 250-251,255
+  s_bb1f213540a1e9::t_de03899d86940d 283-288,290-291
+  s_bb1f213540a1e9::t_b7166f2b2975fc 818-836
+  s_bb1f213540a1e9::t_098931bf6631a7 20
+  s_bb1f213540a1e9::t_f1a993c618ffac 271,280-282,289,292-295
+  s_bb1f213540a1e9::t_9cc10b50950497 254
+  s_bb1f213540a1e9::t_93c3fdbd0734ca 296-298
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "6a3d6ef908835ee17385a9bda80aa2a5aece4d49",
+  "prompts": {},
+  "sessions": {
+    "s_bb1f213540a1e9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fdbc5c037ffetX61RQL4Pa6ijG",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
