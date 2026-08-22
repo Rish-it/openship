@@ -1,0 +1,28 @@
+apps/dashboard/src/context/project-settings-environments.test.ts
+  s_5992b7c056377b::t_c76a2f1316493b 1-18,22-34,37,39-40,45-46,50,52-54
+  s_62eb77bb3e5278::t_82c23c6783222e 19-21,35-36,38,41-44,47-49,51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "400b52c2916d68f7225ffd5d2eedcdf2ebe6d23f",
+  "prompts": {},
+  "sessions": {
+    "s_5992b7c056377b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fd72b24d8ffeOukjnOc9V09MC2",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_62eb77bb3e5278": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fd72b24d8ffeOukjnOc9V09MC2",
+        "model": "x-preview-f-free"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
