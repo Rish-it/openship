@@ -1,0 +1,23 @@
+apps/api/test/lib/secret-env.test.ts
+  s_e342e9a0ebc895::t_93250c54335ea4 103-108
+  s_e342e9a0ebc895::t_6bf4ba924aeb0a 137-140
+apps/api/src/lib/secret-env.ts
+  s_e342e9a0ebc895::t_2ed5b6101aa3ad 120-124,126
+  s_e342e9a0ebc895::t_9a4dfe51a999b5 102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "595f2eacdf04f48d95932212ca0f25900043bd6b",
+  "prompts": {},
+  "sessions": {
+    "s_e342e9a0ebc895": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fd806c6f8ffe7eyg02kwLVgv5H",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
