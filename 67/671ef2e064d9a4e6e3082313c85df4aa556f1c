@@ -1,0 +1,29 @@
+apps/dashboard/src/context/project-settings-environments.test.ts
+  s_5992b7c056377b::t_a6e94f4b7ad364 55-92
+apps/dashboard/src/app/(dashboard)/projects/[id]/[[...slug]]/page.tsx
+  s_2624254dcfc8e7::t_464e789a8cd57d 35-39,605-620,674,691,809-812,816
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "67671ef2e064d9a4e6e3082313c85df4aa556f1c",
+  "prompts": {},
+  "sessions": {
+    "s_2624254dcfc8e7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d95e2b70-5267-4e3c-8a78-1ef9c9ed14ea",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_5992b7c056377b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fd72b24d8ffeOukjnOc9V09MC2",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
