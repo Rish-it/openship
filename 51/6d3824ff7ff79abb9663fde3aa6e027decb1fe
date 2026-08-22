@@ -1,0 +1,19 @@
+apps/dashboard/src/context/project-settings-environments.test.ts
+  s_5992b7c056377b::t_c76a2f1316493b 1-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "516d3824ff7ff79abb9663fde3aa6e027decb1fe",
+  "prompts": {},
+  "sessions": {
+    "s_5992b7c056377b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fd72b24d8ffeOukjnOc9V09MC2",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
