@@ -1,0 +1,49 @@
+apps/dashboard/src/components/import-project/compose/LiveServiceLogsTerminal.render.test.tsx
+  s_e7361bf3740b58::t_4981a68a87c4ca 1-32
+apps/dashboard/src/components/import-project/compose/live-stream-policy.test.ts
+  s_53775d6dccbcb1::t_bc24dc624ab125 1-12,16-27,31-33,37-39,43-44
+  s_e7361bf3740b58::t_9f67e200bfc3b9 13-15,28-30,34-36,40-42
+apps/dashboard/src/components/import-project/compose/LiveServiceLogsTerminal.tsx
+  s_e7361bf3740b58::t_9f67e200bfc3b9 81,122
+  s_53775d6dccbcb1::t_6ec00fdee916c6 3,7,22-24,33-34,36-38,41-43,57-59,64,68-69,74,78-80,84-85,87-97,101,110-113,116,118,125-140
+  s_53775d6dccbcb1::t_0540101ce2866a 1-2,4-6,8-21,25-32,35,39-40,44-56,60-63,65-67,70-73,75-77,82-83,98-100,102,104-105,114-115,117,119-121,123-124,141-143
+  s_53775d6dccbcb1::t_67e3606133c9bb 86,103,106-109
+apps/dashboard/src/components/import-project/compose/ComposeDeploymentProcessing.tsx
+  s_53775d6dccbcb1::t_5677068ee4dcf8 19-20
+  s_53775d6dccbcb1::t_b2690c310a875f 667-670
+  s_e7361bf3740b58::t_f3f939e044eccb 832-861
+  s_53775d6dccbcb1::t_a7478ebf83dd35 692-698
+  s_53775d6dccbcb1::t_3f73b951eb3de4 650-651
+  s_53775d6dccbcb1::t_c8a273b45bad57 412-413
+apps/dashboard/src/components/import-project/compose/live-stream-policy.ts
+  s_53775d6dccbcb1::t_d287bec1a85bc8 1-17
+apps/dashboard/src/context/deployment/service-log-source.test.ts
+  s_53775d6dccbcb1::t_89a247616d04f4 1-13,17-20,22-35,38-42,44-46
+  s_e7361bf3740b58::t_9f67e200bfc3b9 14-16,21,36-37,43
+apps/dashboard/src/context/deployment/types.ts
+  s_53775d6dccbcb1::t_fa5a9b31cd1d0e 242-259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "f7bbb35154a45f012234571d25a2e495659bf75e",
+  "prompts": {},
+  "sessions": {
+    "s_53775d6dccbcb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fcdff80a9ffeXFox3AfkIFQLmf",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_e7361bf3740b58": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0241d-7897-7000-8c59-463360fe47f5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
