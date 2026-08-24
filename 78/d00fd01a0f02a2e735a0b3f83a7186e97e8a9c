@@ -1,0 +1,71 @@
+packages/adapters/src/runtime/docker.ts
+  s_e7361bf3740b58::t_ce2b88982e3615 45,4067,4079-4085,4109,4111-4112
+packages/adapters/src/runtime/supervisor/types.ts
+  s_e7361bf3740b58::t_ce2b88982e3615 15-21,83
+packages/adapters/src/runtime/supervisor/nohup.ts
+  s_e7361bf3740b58::t_43920c4b93446c 17
+  s_e7361bf3740b58::t_ce2b88982e3615 252,285-292
+apps/dashboard/src/lib/sse-message-processors.end.test.ts
+  s_53775d6dccbcb1::t_83657ca9aae46c 1-38
+packages/adapters/src/runtime/supervisor/systemd.ts
+  s_e7361bf3740b58::t_43920c4b93446c 16
+  s_e7361bf3740b58::t_ce2b88982e3615 284,302-309
+packages/adapters/src/index.ts
+  s_e7361bf3740b58::t_ce2b88982e3615 27
+packages/adapters/src/runtime/docker-runtime-logs.test.ts
+  s_e7361bf3740b58::t_d07dd07efce293 5-7,9-11,19,30-34,46
+  s_e7361bf3740b58::t_4981a68a87c4ca 1-4,8,12-18,20-29,35-45,47-53
+packages/adapters/src/types.ts
+  s_e7361bf3740b58::t_ce2b88982e3615 754-759
+apps/api/src/modules/services/service.controller.ts
+  s_53775d6dccbcb1::t_9faf3bffac5d9e 431,476-478,481-485,488-489
+  s_e7361bf3740b58::t_ce2b88982e3615 432-435,439-448,453-454,456-457,479-480,494-502,505-509,511-512
+  s_53775d6dccbcb1::t_418afd6a079a7d 436-438,449-452,455,486-487,503
+apps/api/src/modules/services/service-log-end.test.ts
+  s_53775d6dccbcb1::t_fe40af4d9108aa 3-5,7-33,36-41,61-63,65-66,73-76,78-88,91,94,97-98,101-102,109,113-116,119,123,137-138
+  s_e7361bf3740b58::t_4981a68a87c4ca 1-2,60,64,77,89,100,103-104,107-108,112,117,122,124-127,129-136
+  s_53775d6dccbcb1::t_308bb31fcad6a8 42-50,68-69,71-72
+  s_53775d6dccbcb1::t_1098041f38c840 105,110
+  s_53775d6dccbcb1::t_218074c2b0038f 106
+  s_53775d6dccbcb1::t_43cf3210827ea9 51-59,67,70
+  s_e7361bf3740b58::t_9f67e200bfc3b9 6,34,92-93,95-96,128
+  s_53775d6dccbcb1::t_4950a284a31b00 35
+  s_53775d6dccbcb1::t_3cab45c0c4abea 90
+  s_53775d6dccbcb1::t_75f7064b582dbb 99,111
+  s_53775d6dccbcb1::t_7b31016ccb31bd 118,120-121
+apps/dashboard/src/lib/sseMessageProcessors.ts
+  s_e7361bf3740b58::t_ce2b88982e3615 396-398,401-402
+  s_53775d6dccbcb1::t_0cbe27c9df7bb3 399-400
+apps/api/src/modules/services/service.service.ts
+  s_e7361bf3740b58::t_4981a68a87c4ca 36,2189
+packages/adapters/src/runtime/types.ts
+  s_e7361bf3740b58::t_ce2b88982e3615 21,309
+packages/adapters/src/runtime/cloud.ts
+  s_e7361bf3740b58::t_ce2b88982e3615 27,2587,2648-2650
+packages/adapters/src/runtime/bare.ts
+  s_e7361bf3740b58::t_ce2b88982e3615 28,1062
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "78d00fd01a0f02a2e735a0b3f83a7186e97e8a9c",
+  "prompts": {},
+  "sessions": {
+    "s_53775d6dccbcb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fcdff80a9ffeXFox3AfkIFQLmf",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_e7361bf3740b58": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0241d-7897-7000-8c59-463360fe47f5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
