@@ -1,0 +1,52 @@
+apps/api/src/modules/deployments/compose/pipeline.ts
+  s_e7361bf3740b58::t_a87b4d8cdb1858 280-281,302,310
+apps/api/src/modules/deployments/deployment-lifecycle.ts
+  s_e7361bf3740b58::t_a87b4d8cdb1858 652,803
+apps/api/src/modules/deployments/session-manager.ts
+  s_53775d6dccbcb1::t_3f030074268e27 35-38
+  s_e7361bf3740b58::t_a87b4d8cdb1858 132-137
+  s_53775d6dccbcb1::t_16b692aeba1830 253
+  s_53775d6dccbcb1::t_16225fc29229a6 383
+  s_53775d6dccbcb1::t_9f690f19937852 234-236,245
+apps/dashboard/src/context/deployment/decision-pending.test.ts
+  s_e7361bf3740b58::t_2e326230147b4c 38-42
+apps/api/test/modules/deployments/compose-noop-settle.test.ts
+  s_e7361bf3740b58::t_2e326230147b4c 20,54-56,138,230-258
+  s_e7361bf3740b58::t_87f77961b4ab69 259
+apps/api/src/modules/deployments/deployment.service.ts
+  s_e7361bf3740b58::t_a87b4d8cdb1858 40,421,452
+apps/dashboard/src/context/deployment/useDeploymentBuild.tsx
+  s_e7361bf3740b58::t_a87b4d8cdb1858 1322
+apps/api/src/modules/deployments/session-manager.decision-pending.test.ts
+  s_e7361bf3740b58::t_3ac233c4c9093a 12-14
+  s_e7361bf3740b58::t_6c1ba125ba474f 15-16
+  s_53775d6dccbcb1::t_b58bdc3cfce6a9 1-2,4-11,17-73,87-88
+  s_e7361bf3740b58::t_2e326230147b4c 3,74-86
+apps/api/src/modules/deployments/decision-vs-warning.test.ts
+  s_e7361bf3740b58::t_2e326230147b4c 24,45-48
+  s_e7361bf3740b58::t_8f8084551cf5e0 49-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "c0853070f014f044686a0a4517037d887e6e77d9",
+  "prompts": {},
+  "sessions": {
+    "s_53775d6dccbcb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fcdff80a9ffeXFox3AfkIFQLmf",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_e7361bf3740b58": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0241d-7897-7000-8c59-463360fe47f5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
