@@ -1,0 +1,62 @@
+apps/api/test/modules/backups/backup-stale-sweep.test.ts
+  s_e7361bf3740b58::t_b5a64f147271aa 37-40,127-130
+apps/api/test/modules/backups/custom-command-config.test.ts
+  s_e7361bf3740b58::t_0341bf37b895e5 54,56
+apps/api/src/modules/backups/PENDING.md
+  s_e7361bf3740b58::t_d1d0279659f2e9 50-60
+apps/api/src/modules/backups/backup.orchestrator.ts
+  s_e7361bf3740b58::t_14fc535047f465 307,309,473-488,493-497
+  s_e7361bf3740b58::t_a74d3164e3d45d 88-90
+  s_e7361bf3740b58::t_59e1a7776889b3 84-87,91-92,107,308,468-472,489-492,498-499,501-502,507,618-622,644-647,659,838-841,844,849-851,861
+  s_e7361bf3740b58::t_0341bf37b895e5 788,826,835-837
+  s_e7361bf3740b58::t_1df9a5b3ccbba4 660-670,678
+  s_e7361bf3740b58::t_28e30ce6c1c0a2 503
+  s_e7361bf3740b58::t_35a501c6b20c53 98-106,508-511,653-658,702-706,787,789-791,813-817,820-825,827-834,842-843
+  s_e7361bf3740b58::t_5d3afaa35b9436 818-819
+packages/db/src/repos/backup.repo.ts
+  s_e7361bf3740b58::t_fb6defcc8c0e27 627-628,644
+  s_e7361bf3740b58::t_2fddf086b63f1a 120,131,133,140,144,168,591-592,594,637-638,650,652-654,715-720
+  s_e7361bf3740b58::t_0341bf37b895e5 634-635
+  s_e7361bf3740b58::t_c1a1b2ab1fd165 68-74,613,620-626,629-633,636,639-643,645-649
+  s_e7361bf3740b58::t_abcb0be2534539 651
+apps/api/test/modules/backups/backup-run-durability.test.ts
+  s_e7361bf3740b58::t_5ef62220c4ce32 328,332,344
+  s_e7361bf3740b58::t_0341bf37b895e5 342,354,356
+apps/api/test/modules/backups/backup-upload-progress.test.ts
+  s_56e393129bf83a::t_8c0f23fb40b70c 159
+  s_e7361bf3740b58::t_1872c275ce50cd 38,40-41,57-59,65,72,79-80,182,251,253-254,312-313,317-319,328,330-332,348-354,357-359,361-363,365-367,369-375,377,379,381-383,385-391,403-420,437-438,440-451
+  s_e7361bf3740b58::t_5bf17ae2013a3f 39,50,183-186,252,378,392-402
+  s_e7361bf3740b58::t_28e30ce6c1c0a2 137-140
+  s_e7361bf3740b58::t_2f3c112b4f04a5 14-15,426
+  s_e7361bf3740b58::t_2b235eeb2ced9e 315,329,333,360,364,368,376,380,384
+  s_e7361bf3740b58::t_5d3afaa35b9436 334-347
+  s_e7361bf3740b58::t_c953320d7ebd2e 67-68
+  s_e7361bf3740b58::t_ea32ee5eba4569 467,482-483,498
+  s_56e393129bf83a::t_5be268662f83f7 1-13,16-37,43-49,51-56,60-64,66,69,71,73-77,81-136,141-158,160-181,187-250,256-311,421-425,427-436,452-466,468-481,484-497,499-503
+  s_e7361bf3740b58::t_14fc535047f465 42,78,255,314,316,320-327,355-356
+  s_e7361bf3740b58::t_2719a97d6b4ede 70,439
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "c15cc88d32481d6ddc16ba82a9fc22e52236e90a",
+  "prompts": {},
+  "sessions": {
+    "s_56e393129bf83a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fc870f39affegmv30E6jQ3EdaG",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    },
+    "s_e7361bf3740b58": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0241d-7897-7000-8c59-463360fe47f5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
