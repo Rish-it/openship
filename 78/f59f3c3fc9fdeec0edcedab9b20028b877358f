@@ -1,0 +1,21 @@
+packages/adapters/test/sha256-stream-progress.test.ts
+  s_56e393129bf83a::t_b10369c4d456b0 1-58
+packages/adapters/src/backup/common/sha256-stream.ts
+  s_56e393129bf83a::t_c8b597cd9d33aa 11-15,25,27,30,36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "78f59f3c3fc9fdeec0edcedab9b20028b877358f",
+  "prompts": {},
+  "sessions": {
+    "s_56e393129bf83a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_fc870f39affegmv30E6jQ3EdaG",
+        "model": "unknown"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
